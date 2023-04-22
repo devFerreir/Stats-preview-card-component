@@ -5,8 +5,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/devFerreir/Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://statspreviewcardbyme.netlify.app/)
+- Solution URL: [STats URL](https://github.com/devFerreir/Stats-preview-card-component)
+- Live Site URL: [LIVe STATS](https://statspreviewcardbyme.netlify.app/)
 
 
 ### Built with
